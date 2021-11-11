@@ -34,5 +34,6 @@ local.env
 dev.env
 prod.env
 env.json
+environments/
 
 # App specifics
