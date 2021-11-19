@@ -15,10 +15,6 @@
 # VSCode
 .vscode
 
-# .ignore files
-# .gitignore
-# .dockerignore
-
 # Environments
 .env
 .venv
@@ -29,11 +25,12 @@ env.bak/
 venv.bak/
 
 # Environment variables
-.env
-local.env
-dev.env
-prod.env
-env.json
+*.env
+env.*
 environments/
+
+# .ignore files
+# .gitignore
+# .dockerignore
 
 # App specifics
