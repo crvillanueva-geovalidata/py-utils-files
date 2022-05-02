@@ -56,3 +56,5 @@ local.settings.json
 
 # App specifics
 sampledata/
+az*.ini
+jpnb/
